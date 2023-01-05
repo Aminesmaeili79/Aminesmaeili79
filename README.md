@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Aminesmaeili79
+## About me
+
+- 👋 Hi, I’m 
 - 👀 I’m interested in problem solving and mathematics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
