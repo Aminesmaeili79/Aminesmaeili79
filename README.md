@@ -23,6 +23,8 @@
 <h1 align="center">Hi 👋, I'm Amin</h1>
 <h3 align="center">Student, Front-end Developer and Software Engineer</h3>
 
+
+
 - 🔭 I’m currently working on **Robotex 2024 Competition**
 
 - 🌱 I’m currently learning **React, Nodejs and Arduino**
