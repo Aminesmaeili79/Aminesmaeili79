@@ -33,6 +33,8 @@
 
 - 💬 Ask me about **anything :)**
 
+- I'm still new to open-source projects and still am working on my GitHub account
+
 - 📫 How to reach me **https://t.me/RealEyezRealiseRealLies**
 
 <h3 align="left">Connect with me:</h3>
