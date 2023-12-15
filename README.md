@@ -21,15 +21,15 @@
 
 -->
 <h1 align="center">Hi 👋, I'm Amin</h1>
-<h3 align="center">Student, Front-end Developer and Software Engineer</h3>
+<h3 align="center">Student, Front-end Developer and Cybersecurity enthusiastic</h3>
 
 
 
-- 🔭 I’m currently working on **Robotex 2024 Competition**
+- 🔭 I’m currently working on **working as a team to make practical projects using React and Django**
 
-- 🌱 I’m currently learning **React, Nodejs and Arduino**
+- 🌱 I’m currently learning **React, Python (Data processing, TensorFlow, Django), and Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Any interesting project**
+- 👯 I’m looking to collaborate on **Any cybersecurity-related and front-end projects**
 
 - 💬 Ask me about **anything :)**
 
