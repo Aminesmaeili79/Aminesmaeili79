@@ -47,10 +47,10 @@
 
 <ul>
   <li>
-    C/C++
+    <p style="vertical-align:middle">C/C++</p>
   <a href="https://www.cprogramming.com/">
     <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=c" />
-  </a> / <a href="https://isocpp.org/">
+  </a>  <a href="https://isocpp.org/">
     <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=cpp" />
   </a>
   </li>
