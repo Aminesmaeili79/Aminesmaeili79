@@ -47,7 +47,7 @@
 
 <ul>
   <li>
-    <p style="vertical-align:middle">C/C++</p>
+    <p style="vertical-align:middle; display: inline">C/C++</p>
   <a style='display: inline' href="https://www.cprogramming.com/">
     <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=c" />
   </a>  <a style='display: inline' href="https://isocpp.org/">
