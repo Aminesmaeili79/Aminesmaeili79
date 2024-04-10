@@ -29,9 +29,9 @@
 
 - I’m looking to collaborate on **Any cybersecurity-related and web-based projects**
 
-- Ask me about **anything :)**
+- Interested in algorithms and competitive programming
 
-- How to reach me **https://t.me/RealEyezRealiseRealLies**
+- You can message me on Telegram **https://t.me/RealEyezRealiseRealLies**
 
 - I'm still new to open-source projects and still am working on my GitHub account
 
