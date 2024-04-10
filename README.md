@@ -21,19 +21,15 @@
 
 -->
 <h1 align="center">Hi 👋, I'm Amin</h1>
-<h3 align="center">Student, Front-end Developer and Cybersecurity enthusiastic</h3>
+<h3 align="center">Student, Web Developer and Cybersecurity enthusiastic</h3>
 
+- I’m currently learning **React, Node.js, And Bug Bounty Hunting**
 
+- I’m looking to collaborate on **Any cybersecurity-related and web-based projects**
 
-- 🔭 I’m currently working on **working as a team to make practical projects using React and Django**
+- Ask me about **anything :)**
 
-- 🌱 I’m currently learning **React, Python (Data processing, TensorFlow, Django), and Cybersecurity**
-
-- 👯 I’m looking to collaborate on **Any cybersecurity-related and front-end projects**
-
-- 💬 Ask me about **anything :)**
-
-- 📫 How to reach me **https://t.me/RealEyezRealiseRealLies**
+- How to reach me **https://t.me/RealEyezRealiseRealLies**
 
 - I'm still new to open-source projects and still am working on my GitHub account
 
