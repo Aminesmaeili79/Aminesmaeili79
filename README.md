@@ -47,9 +47,9 @@
 
   <p>C/C++
   <a href="https://www.cprogramming.com/">
-    <img src="https://skillicons.dev/icons?i=c" />
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=c" />
   </a> / <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=cpp" />
   </a>
 </p>
 
