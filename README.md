@@ -105,7 +105,8 @@
   </li>
 </ul>
 -->
-<div class="skill">
+<div class="skill" style="display: flex;
+    align-items: center;">
   <p>C++</p>
   <a href="https://isocpp.org/">
     <img width=25 height=25 src="https://skillicons.dev/icons?i=cpp" />
