@@ -23,7 +23,7 @@
 
 -->
 <h1 align="center">Hi 👋, I'm Amin</h1>
-<h2 align="center">Student, Web Developer and Cybersecurity enthusiastic</h3>
+<h2 align="center">Student, Web Developer and Cybersecurity Enthusiastic</h3>
 
 <hr>
 
