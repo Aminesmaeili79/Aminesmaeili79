@@ -23,9 +23,7 @@
 
 -->
 <h1 align="center">Hi 👋, I'm Amin</h1>
-<h2 align="center">Student, Web Developer and Cybersecurity Enthusiastic</h3>
-
-<hr>
+<h2 align="center">Student, Web Developer and Cybersecurity Enthusiastic</h2>
 
 - I’m currently learning **React, Node.js, And Bug Bounty Hunting**
 
