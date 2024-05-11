@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **React, Node.js**
 
+- 👾 **LeetCode** and **DSA** enjoyer
+
+- 💻 Making **personal projects** and honing my skills
+
 - 💬 Ask me about **anything :)**
 
 <br>
