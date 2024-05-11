@@ -11,9 +11,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-&npsp;
 <br>
-&npsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +26,7 @@
 <a href="https://discord.gg/625569393577033728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="625569393577033728" height="30" width="40" /></a>
 </p>
 
-&npsp;
 <br>
-&npsp;
 
 <h3 align="left">Languages and Tools (in order of proficiency):</h3>
 <p align="left">
@@ -192,9 +188,7 @@
 	</a>
 </p>
 
-&npsp;
 <br>
-&npsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminesmaeili79&show_icons=true&theme=dark&locale=en&layout=compact" alt="aminesmaeili79" /></p>
 
