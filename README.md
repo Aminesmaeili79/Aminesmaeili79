@@ -111,11 +111,3 @@ TO HERE -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminesmaeili79&" alt="aminesmaeili79" /></p>
 -->
-
-<style>
-  h1{
-    color: red;
-  }
-</style>
-
-<h1>Amin</h1>
