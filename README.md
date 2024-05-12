@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **anything :)**
 
-<br>
+<hr>
 
 - ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+<hr>
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
@@ -95,7 +95,7 @@
 
 
 
-<br>
+<hr>
 
 <h3 align="left">Languages and Tools (in order of proficiency):</h3>
 <p align="left">
@@ -258,7 +258,7 @@
 </p>
 
 <br>
-<br>
+<hr>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminesmaeili79&show_icons=true&theme=dark&locale=en&layout=compact" alt="aminesmaeili79" /></p>
