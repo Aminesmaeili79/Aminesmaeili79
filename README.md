@@ -257,7 +257,7 @@
 	</a>
 	<a href="https://www.figma.com/](https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.vectorlogo.zone/logos/asp/asp-icon.svg"
+			src="https://www.vectorlogo.zone/logos/asp-net/asp-net-icon.svg"
 			alt="asp.net"
 			width="40"
 			height="40"
