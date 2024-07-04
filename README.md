@@ -191,6 +191,14 @@
 			height="40"
 		/>
 	</a>
+	<a href="https://www.figma.com/](https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"
+			alt="asp.net"
+			width="40"
+			height="40"
+		/>
+	</a>
 	<a href="https://www.java.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -251,14 +259,6 @@
 		<img
 			src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
 			alt="figma"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.figma.com/](https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"
-			alt="asp.net"
 			width="40"
 			height="40"
 		/>
