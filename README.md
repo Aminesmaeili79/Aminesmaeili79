@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amin</h1>
 <h3 align="center">Web Devoloper And Cybersecurity Ethusiastic</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **ASP.NET, React, Nodejs**
 
 - 👾 **LeetCode** and **DSA** enjoyer
 
