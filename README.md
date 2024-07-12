@@ -111,7 +111,27 @@
 	</li>
 	<li>
 		<p align="left">
+    				Tailwind &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=tailwind" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Bootstrap &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=bootstrap" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Sass &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=sass" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
     				JavaScript &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=js" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				TypeScript &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=ts" />
 		</p>
 	</li>
 	<li>
@@ -121,7 +141,77 @@
 	</li>
 	<li>
 		<p align="left">
+    				NextJs &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=nextjs" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
     				Node.js &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=nodejs" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Python &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=py" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				C &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=c" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				C++ &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=cpp" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				C# &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=cs" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				.NET &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=dotnet" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Java &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=java" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Bash &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=bash" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				PowerShell &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=powershell" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Git &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=git" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Nvim &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=neovim" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Raspberry Pi &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=raspberrypi" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Kali &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=kali" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Ubuntu &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=ubuntu" />
 		</p>
 	</li>
 </ul>
