@@ -98,7 +98,23 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<ul>
+	<li>
+		<p align="center">
+  			<a href="https://skillicons.dev">
+    				<img src="https://skillicons.dev/icons?i=html" />
+  			</a>
+		</p>
+	</li>
+	<li>
+		<p align="center">
+  			<a href="https://skillicons.dev">
+    				<img src="https://skillicons.dev/icons?i=css" />
+  			</a>
+		</p>
+	</li>
+</ul>
+<!-- <p align="left">
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -263,7 +279,7 @@
 			height="40"
 		/>
 	</a>
-</p>
+</p> -->
 
 <br>
 <hr>
