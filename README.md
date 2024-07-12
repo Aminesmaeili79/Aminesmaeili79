@@ -102,14 +102,14 @@
 	<li>
 		<p align="center">
   			<a href="https://skillicons.dev">
-    				HTML <img align="left" src="https://skillicons.dev/icons?i=html" />
+    				<span align="left">HTML</span> <img align="left" src="https://skillicons.dev/icons?i=html" />
   			</a>
 		</p>
 	</li>
 	<li>
 		<p align="center">
   			<a href="https://skillicons.dev">
-    				CSS <img align="left" src="https://skillicons.dev/icons?i=css" />
+    				<span align="left">CSS</span> <img align="left" src="https://skillicons.dev/icons?i=css" />
   			</a>
 		</p>
 	</li>
