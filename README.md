@@ -98,7 +98,7 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<ul>
+<ul align="left">
 	<li>
 		<p align="left">
     				HTML <img align="left" src="https://skillicons.dev/icons?i=html" />
