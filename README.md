@@ -98,30 +98,30 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<ul style="margin: 0; padding: 0; list-style: none;">
+<ul >
 	<li>
 		<p align="left">
-    				HTML <img align="left" src="https://skillicons.dev/icons?i=html" />
+    				HTML <img src="https://skillicons.dev/icons?i=html" />
 		</p>
 	</li>
 	<li>
 		<p align="left">
-    				CSS <img align="left" src="https://skillicons.dev/icons?i=css" />
+    				CSS <img src="https://skillicons.dev/icons?i=css" />
 		</p>
 	</li>
 	<li>
 		<p align="left">
-    				JavaScript <img align="left" src="https://skillicons.dev/icons?i=js" />
+    				JavaScript <img src="https://skillicons.dev/icons?i=js" />
 		</p>
 	</li>
 	<li>
 		<p align="left">
-    				React <img align="left" src="https://skillicons.dev/icons?i=react" />
+    				React <img src="https://skillicons.dev/icons?i=react" />
 		</p>
 	</li>
 	<li>
 		<p align="left">
-    				Node.js <img align="left" src="https://skillicons.dev/icons?i=nodejs" />
+    				Node.js <img src="https://skillicons.dev/icons?i=nodejs" />
 		</p>
 	</li>
 </ul>
