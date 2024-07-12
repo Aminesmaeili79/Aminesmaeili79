@@ -101,16 +101,12 @@
 <ul>
 	<li>
 		<p align="left">
-  			<a href="https://skillicons.dev">
-    				<span align="left">HTML</span> <img align="left" src="https://skillicons.dev/icons?i=html" />
-  			</a>
+    				HTML <img align="left" src="https://skillicons.dev/icons?i=html" />
 		</p>
 	</li>
 	<li>
 		<p align="left">
-  			<a href="https://skillicons.dev">
-    				<span align="left">CSS</span> <img align="left" src="https://skillicons.dev/icons?i=css" />
-  			</a>
+    				CSS <img align="left" src="https://skillicons.dev/icons?i=css" />
 		</p>
 	</li>
 </ul>
