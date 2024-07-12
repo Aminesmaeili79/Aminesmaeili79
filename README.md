@@ -100,14 +100,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <ul>
 	<li>
-		<p align="center">
+		<p align="left">
   			<a href="https://skillicons.dev">
     				<span align="left">HTML</span> <img align="left" src="https://skillicons.dev/icons?i=html" />
   			</a>
 		</p>
 	</li>
 	<li>
-		<p align="center">
+		<p align="left">
   			<a href="https://skillicons.dev">
     				<span align="left">CSS</span> <img align="left" src="https://skillicons.dev/icons?i=css" />
   			</a>
