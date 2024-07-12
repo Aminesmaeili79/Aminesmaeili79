@@ -109,6 +109,21 @@
     				CSS <img align="left" src="https://skillicons.dev/icons?i=css" />
 		</p>
 	</li>
+	<li>
+		<p align="left">
+    				JavaScript <img align="left" src="https://skillicons.dev/icons?i=js" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				React <img align="left" src="https://skillicons.dev/icons?i=react" />
+		</p>
+	</li>
+	<li>
+		<p align="left">
+    				Node.js <img align="left" src="https://skillicons.dev/icons?i=nodejs" />
+		</p>
+	</li>
 </ul>
 <!-- <p align="left">
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
