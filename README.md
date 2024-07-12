@@ -186,32 +186,7 @@
 	</li>
 	<li>
 		<p align="left">
-    				PowerShell &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=powershell" />
-		</p>
-	</li>
-	<li>
-		<p align="left">
     				Git &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=git" />
-		</p>
-	</li>
-	<li>
-		<p align="left">
-    				Nvim &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=neovim" />
-		</p>
-	</li>
-	<li>
-		<p align="left">
-    				Raspberry Pi &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=raspberrypi" />
-		</p>
-	</li>
-	<li>
-		<p align="left">
-    				Kali &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=kali" />
-		</p>
-	</li>
-	<li>
-		<p align="left">
-    				Ubuntu &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=ubuntu" />
 		</p>
 	</li>
 </ul>
