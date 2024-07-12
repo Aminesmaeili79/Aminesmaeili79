@@ -98,10 +98,10 @@
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<ul >
+<ul>
 	<li>
 		<p align="left">
-    				HTML <img width="20px" height="20px" src="https://skillicons.dev/icons?i=html" />
+    				HTML   <img width="20px" height="20px" src="https://skillicons.dev/icons?i=html" />
 		</p>
 	</li>
 	<li>
