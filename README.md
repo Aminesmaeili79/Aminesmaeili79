@@ -101,7 +101,7 @@
 <ul >
 	<li>
 		<p align="left">
-    				HTML <img width="30px" height="30px" src="https://skillicons.dev/icons?i=html" />
+    				HTML <img style="vertical-align:middle" width="30px" height="30px" src="https://skillicons.dev/icons?i=html" />
 		</p>
 	</li>
 	<li>
