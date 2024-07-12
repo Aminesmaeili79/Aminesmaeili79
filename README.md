@@ -106,22 +106,22 @@
 	</li>
 	<li>
 		<p align="left">
-    				CSS <img src="https://skillicons.dev/icons?i=css" />
+    				CSS &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=css" />
 		</p>
 	</li>
 	<li>
 		<p align="left">
-    				JavaScript <img src="https://skillicons.dev/icons?i=js" />
+    				JavaScript &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=js" />
 		</p>
 	</li>
 	<li>
 		<p align="left">
-    				React <img src="https://skillicons.dev/icons?i=react" />
+    				React &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=react" />
 		</p>
 	</li>
 	<li>
 		<p align="left">
-    				Node.js <img src="https://skillicons.dev/icons?i=nodejs" />
+    				Node.js &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=nodejs" />
 		</p>
 	</li>
 </ul>
