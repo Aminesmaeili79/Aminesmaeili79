@@ -97,8 +97,26 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<ul>
+<h3 align="left">Skills:</h3>
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=html" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=css" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=tailwind" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=bootstrap" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=sass" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=js" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=ts" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=react" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=nextjs" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=nodejs" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=py" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=c" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=cpp" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=cs" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=dotnet" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=java" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=bash" />
+<img width="25px" height="25px" src="https://skillicons.dev/icons?i=git" />
+<!-- <ul>
 	<li>
 		<p align="left">
     				HTML &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=html" />
@@ -189,7 +207,7 @@
     				Git &nbsp;<img width="25px" height="25px" src="https://skillicons.dev/icons?i=git" />
 		</p>
 	</li>
-</ul>
+</ul> -->
 <!-- <p align="left">
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 		<img
