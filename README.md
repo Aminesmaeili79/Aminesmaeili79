@@ -98,24 +98,24 @@
 <hr>
 
 <h3 align="left">Skills:</h3>
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=html" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=css" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=tailwind" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=bootstrap" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=sass" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=js" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=ts" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=react" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=nextjs" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=nodejs" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=py" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=c" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=cpp" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=cs" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=dotnet" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=java" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=bash" />
-<img width="25px" height="25px" src="https://skillicons.dev/icons?i=git" />
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=html" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=css" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=tailwind" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=bootstrap" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=sass" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=js" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=ts" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=react" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=nextjs" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=nodejs" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=py" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=c" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=cpp" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=cs" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=dotnet" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=java" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=bash" /></span>
+<span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=git" /></span>
 <!-- <ul>
 	<li>
 		<p align="left">
