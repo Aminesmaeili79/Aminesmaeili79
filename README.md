@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amin</h1>
 <h3 align="center">Full Stack Devoloper And Cybersecurity Ethusiastic</h3>
 
-- 🌱 I’m currently learning <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=dotnet" /></span>
+- 🌱 I’m currently learning <span><img width="20px" height="20px" src="https://skillicons.dev/icons?i=dotnet" /></span>
 
 - 👾 **LeetCode** and **DSA** enjoyer
 
