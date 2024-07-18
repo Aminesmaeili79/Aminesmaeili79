@@ -1,19 +1,13 @@
 <h1 align="center">Hi, I'm Amin</h1>
 <h3 align="center">Full Stack Devoloper And Cybersecurity Ethusiastic</h3>
 
-- 🌱 I’m currently learning **ASP.NET, React, Nodejs**
+- 🌱 I’m currently learning <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=dotnet" /></span>
 
 - 👾 **LeetCode** and **DSA** enjoyer
 
 - 💻 Making **personal projects** and honing my skills
 
 - 💬 Ask me about **anything :)**
-
-<hr>
-
-- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <hr>
 
