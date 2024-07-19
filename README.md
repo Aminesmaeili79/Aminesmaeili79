@@ -58,16 +58,15 @@
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=tailwind" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=bootstrap" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=sass" /></span>
-<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=js" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=ts" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=react" /></span>
-<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=nextjs" /></span>
-<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=nodejs" /></span>
-<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=py" /></span>
-<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=c" /></span>
-<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=cpp" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=cs" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=dotnet" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=js" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=nodejs" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=nextjs" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=py" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=cpp" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=java" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=bash" /></span>
 <span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=git" /></span> -->
@@ -387,16 +386,15 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=cs" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=dotnet" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=js" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=nodejs" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=nextjs" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=redux" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=express" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=py" /></span>
+<span><img width="50px" height="50px" src="https://skillicons.dev/icons?i=cpp" /></span>
 </div>
 
 </td><td valign="top" width="33%">
