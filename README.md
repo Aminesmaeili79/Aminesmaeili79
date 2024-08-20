@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Say hello to Papa Sukuna</h1>
+<h1>SAY HELLO TO PAPA SUKUNA</h1>
 <img src="https://www.icegif.com/wp-content/uploads/2023/11/icegif-972.gif" align="center" style="width: 100%" />
 </div>  
   
