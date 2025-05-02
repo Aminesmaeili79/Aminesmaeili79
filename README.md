@@ -4,7 +4,7 @@
 </div>  
   
 
-# <div align="center">I'm Amin, a full-time full-stack developer 👨‍💻 Cybersecurity enthusiastic 🚀</div>  
+# <div align="center">I'm Amin, a full-stack developer 👨‍💻 Cybersecurity enthusiastic 🚀</div>  
   
 
 - 🌱 I’m currently learning &nbsp; <span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=dotnet" /></span>, &nbsp; <span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=react" /></span>, &nbsp; <span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=nodejs" /></span>
