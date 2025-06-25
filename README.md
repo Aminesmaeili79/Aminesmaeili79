@@ -7,11 +7,13 @@
 # <div align="center">I'm Amin, a full-stack developer 👨‍💻 Cybersecurity enthusiastic 🚀</div>  
   
 
-- 🌱 I’m currently learning &nbsp; <span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=dotnet" /></span>, &nbsp; <span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=react" /></span>, &nbsp; <span><img width="25px" height="25px" src="https://skillicons.dev/icons?i=nodejs" /></span>
+- 🌱 I’m currently honing my skills in MERN stack
 
 - 👾 **LeetCode** and **DSA** enjoyer
 
-- ❓ Ask me about anything related to front-end, back-end, networking and related technologies  
+- ❓ Ask me about anything related to front-end, back-end, networking and related technologies
+
+- Soon will be releasing interesting projects and tools on @thecybertruckgasstation account
   
 
 <br/>  
